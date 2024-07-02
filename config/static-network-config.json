@@ -1,20 +1,25 @@
 [
   {
-    "x500Name" : "CN=Alice, OU=Test Dept, O=R3, L=London, C=GB",
+    "x500Name" : "CN=Voter, OU=Public, O=R3, L=London, C=GB",
     "cpi" : "MyCorDapp"
   },
   {
-    "x500Name" : "CN=Bob, OU=Test Dept, O=R3, L=London, C=GB",
+    "x500Name" : "CN=ElectionAuthority, OU=Government, O=R3, L=London, C=GB",
     "cpi" : "MyCorDapp"
   },
   {
-    "x500Name" : "CN=Charlie, OU=Test Dept, O=R3, L=London, C=GB",
+    "x500Name" : "CN=Candidate, OU=PoliticalParty, O=R3, L=London, C=GB",
     "cpi" : "MyCorDapp"
   },
   {
-    "x500Name" : "CN=Dave, OU=Test Dept, O=R3, L=London, C=GB",
+    "x500Name" : "CN=Auditor, OU=Auditing, O=R3, L=London, C=GB",
     "cpi" : "MyCorDapp"
   },
+  {
+    "x500Name" : "CN=Observer, OU=Monitoring, O=R3, L=London, C=GB",
+    "cpi" : "MyCorDapp"
+  },
+
   {
     "x500Name" : "CN=NotaryRep1, OU=Test Dept, O=R3, L=London, C=GB",
     "cpi" : "NotaryServer",
